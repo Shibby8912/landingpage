@@ -1,0 +1,83 @@
+body{
+	background-color: #AB9F9D;
+	color: #383F51;
+	font-size: 15px;
+	font-family: Helvetica;
+}
+h1{
+	color: #3C4F76;
+	font-size: 50px;
+	font-weight: 800;
+	font-family: 'Crimson Text', serif;
+	border: 5px #3C4F76 dotted;
+	border-radius: 150px;
+}
+h2{
+	color: #D1BEB0;
+	font-family: 'Bad Script', cursive;
+	font-size: 30px;
+	border: 3px #D1BEB0 solid;
+	box-shadow: 3px 3px 3px #383F51;
+	border-radius: 150px;
+	text-align: center;
+}
+h3{
+	color: #DDDBF1;
+	font-size: 20px;
+	font-weight: lighter;
+	font-family: 'Crimson Text', serif;
+	font-weight: bold;
+}
+a{
+	color: #DDDBF1;
+	text-decoration: none;
+}
+a:hover{
+	color: #3C4F76;
+	text-decoration: none;
+}
+
+#banner{
+	text-align: center;
+	width: 100vw;
+}
+.karte{
+	background-color: #D1BEB0;
+	border: 1px #D1BEB0 solid;
+	border-radius: 15px;
+	margin: 10px;
+}
+.karte h2{
+	background-color: #AB9F9D;
+	text-align: center;
+	border: 0px;
+	color: #3C4F76;
+	box-shadow: 0px;
+}
+.month{
+	background-color: #D1BEB0;
+	border: 1px #D1BEB0 solid;
+	border-radius: 15px;
+	margin: 10px;
+}
+#footer{
+	background-color: #DDDBF1;
+	text-align: center;
+	color: #383F51;
+	font-family: 'Bad Script', cursive;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 15px;
+}
+.introduction{
+	background-color: #AB9F9D
+}
+.month image{
+	height: 500px;
+	width: 500px;
+	text-align: center;
+}
+.fab {
+	color: #383F51;
+	font-size: 50px;
+}
